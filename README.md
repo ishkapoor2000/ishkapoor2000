@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishkapoor2000&label=Profile%20views&color=0e75b6&style=flat" alt="ishkapoor2000" /> </p>
 
-- 🔭 I’m currently working on <a href="https://divya-chitta.ishkapoor.repl.co/" alt="https://divya-chitta.ishkapoor.repl.co/" />DivyaChitta</a>, a VR Meditation Application.
+- 🔭 I’m currently working on <a href="https://divya-chitta.ishkapoor.repl.co/" alt="https://divya-chitta.ishkapoor.repl.co/" />DivyaChitta</a>, a VR Meditation Android Application.
 - 💬 You can ask me about Game development, 3D, AR, VR, web development & Deep Learning. 
 - 👯 I’m looking to collaborate on AI, web dev, OpenCV and VR projects.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishkapoor2000" alt="ishkapoor2000" /></a> </p>
