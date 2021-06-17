@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">I am Ish Kapoor</h3>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishkapoor2000&label=Profile%20views&color=0e75b6&style=flat" alt="ishkapoor2000" /> </p>
 
 - 🔭 I’m currently working on <a href="https://divya-chitta.ishkapoor.repl.co/" alt="https://divya-chitta.ishkapoor.repl.co/" />DivyaChitta</a>, a VR Meditation Android Application.
 - 💬 You can ask me about Game development, 3D, AR, VR, web development & Deep Learning. 
 - 👯 I’m looking to collaborate on AI, web dev, OpenCV and VR projects.
-- 📫 How to reach me: <a href="#connect-with-me" rel="noopener" target="_blank">Connect with me</a>
+- 🌱 I’m currently learning ThreeJS, WebXR, JS, DL.
+- 📫 How to reach me: <a href="#connect-with-me" rel="noopener" target="_blank">Connect with me</a>.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishkapoor2000" alt="ishkapoor2000" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -30,8 +31,8 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/ish-kapoor-2000ish" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="ish-kapoor-2000ish" height="40" width="40" /></a>
 <a href="https://fb.com/ish kapoor" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733547.png" alt="ish kapoor" height="40" width="40" /></a>
+<a href="mailto:ishkapoor2000@gmail.com?'Reching out to you'='Hi, I want to enwuire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="2000_i_k" height="40" width="40" /></fa>
 <a href="https://instagram.com/2000_i_k" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" alt="2000_i_k" height="40" width="40" /></a>
-<a href="mailto:ishkapoor2000@gmail.com ?Reching out to you=Hi, I want to enwuire about..." rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" alt="2000_i_k" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
