@@ -43,3 +43,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishkapoor2000&show_icons=true&locale=en" alt="ishkapoor2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishkapoor2000&" alt="ishkapoor2000" /></p>
+
+<p align="center">
+  <img src="https://github.com/ishkapoor2000/ishkapoor2000/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
