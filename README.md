@@ -46,14 +46,14 @@ Here are some ideas to get you started:
 
 ## Contribution Skyline - 2020
 <p>
-  <a href="https://skyline.github.com/ishkapoor2000/2020">
+  <a href="https://skyline.github.com/ishkapoor2000/2020" target="_blank">
     <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2020.gif" alt="Skyline Github Contributon 2020" />
   </a>
 </p>
 
 ## Contribution Skyline - 2021
 <p>
-  <a href="https://skyline.github.com/ishkapoor2000/2021">
+  <a href="https://skyline.github.com/ishkapoor2000/2021" target="_blank">
     <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2021.gif" alt="Skyline Github Contributon 2021" />
   </a>
 </p>
