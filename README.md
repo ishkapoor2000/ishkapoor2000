@@ -45,10 +45,18 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishkapoor2000&" alt="ishkapoor2000" /></p>
 
 ## Contribution Skyline - 2020
-https://skyline.github.com/ishkapoor2000/2020
+<p>
+  <a href="https://skyline.github.com/ishkapoor2000/2020">
+    <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2020.gif" alt="Skyline Github Contributon 2020" />
+  </a>
+</p>
 
 ## Contribution Skyline - 2021
-<p><a href="https://skyline.github.com/ishkapoor2000/2021"><img src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2021.gif" alt="Skyline Github Contributon 2021" /></a></p>
+<p>
+  <a href="https://skyline.github.com/ishkapoor2000/2021">
+    <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2021.gif" alt="Skyline Github Contributon 2021" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github.com/ishkapoor2000/ishkapoor2000/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
