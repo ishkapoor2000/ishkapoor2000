@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 ## Contribution Skyline - 2020
 https://skyline.github.com/ishkapoor2000/2020
 
-## Contribution Skyline - 2020
-https://skyline.github.com/ishkapoor2000/2021
+## Contribution Skyline - 2021
+<p><a href="https://skyline.github.com/ishkapoor2000/2021"><img src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2021.gif" alt="Skyline Github Contributon 2021" /></a></p>
 
 <p align="center">
   <img src="https://github.com/ishkapoor2000/ishkapoor2000/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
