@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <a href="https://divya-chitta.ishkapoor.repl.co/" alt="https://divya-chitta.ishkapoor.repl.co/" />DivyaChitta</a>, a VR Meditation Android Application.
 - 💬 You can ask me about Game development, 3D, AR, VR, web development & Deep Learning. 
 - 👯 I’m looking to collaborate on AI, web dev, OpenCV and VR projects.
-- 🌱 I’m currently learning ThreeJS, WebXR, JS, DL.
+- 🌱 I’m currently learning ThreeJS, WebXR, JS, DL, ReactJS.
 - 📫 How to reach me: <a href="#connect-with-me" rel="noopener" target="_blank">Connect with me</a>.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishkapoor2000" alt="ishkapoor2000" /></a> </p>
 
