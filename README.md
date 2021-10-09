@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishkapoor2000&label=Profile%20views&color=0e75b6&style=flat" alt="ishkapoor2000" /> </p>
 
 - 🔭 I’m currently working on <a href="https://divya-chitta.ishkapoor.repl.co/" alt="https://divya-chitta.ishkapoor.repl.co/" />DivyaChitta</a>, a VR Meditation Android Application.
-- 💬 You can ask me about Game development, 3D, AR, VR, web development & Deep Learning. 
+- 💬 You can ask me about Game development, 3D, AR, VR, web development & Deep Learning.
+- ⚡ Maintaining [Hacktober Fest 2021 Repository](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
 - 👯 I’m looking to collaborate on AI, web dev, OpenCV and VR projects.
 - 🌱 I’m currently learning ThreeJS, WebXR, JS, DL, ReactJS.
 - 📫 How to reach me: <a href="#connect-with-me" rel="noopener" target="_blank">Connect with me</a>.
