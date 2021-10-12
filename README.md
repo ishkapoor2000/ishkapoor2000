@@ -20,20 +20,22 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <a href="https://divya-chitta.ishkapoor.repl.co/" alt="https://divya-chitta.ishkapoor.repl.co/" />DivyaChitta</a>, a VR Meditation Android Application.
 - 💬 You can ask me about Game development, 3D, AR, VR, web development & Deep Learning.
-- ⚡ Maintaining [Hacktober Fest 2021 Repository](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+- ⚡ Maintaining [Hacktober Fest 2021 Repository](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021).
 - 👯 I’m looking to collaborate on AI, web dev, OpenCV and VR projects.
 - 🌱 I’m currently learning ThreeJS, WebXR, JS, DL, ReactJS.
+- 🎮 Play _**Dark Corner**_ & _**Dark Corner: v2 Mobile**_ at my [**itch.io page**](https://ishkapoor.itch.io).
 - 📫 How to reach me: <a href="#connect-with-me" rel="noopener" target="_blank">Connect with me</a>.
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishkapoor2000" alt="ishkapoor2000" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishkapoor2000" alt="ishkapoor2000" /></a></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 id="connect-with-me" align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ish-kapoor-2000ish" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="ish-kapoor-2000ish" height="40" width="40" /></a>
-<a href="https://fb.com/ish kapoor" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733547.png" alt="ish kapoor" height="40" width="40" /></a>
-<a href="mailto:ishkapoor2000@gmail.com?'Reching out to you'='Hi, I want to enwuire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="2000_i_k" height="40" width="40" /></fa>
-<a href="https://instagram.com/2000_i_k" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" alt="2000_i_k" height="40" width="40" /></a>
+  <a href="https://twitter.com/IshKapoor9" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="@ishkapoor9" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/ish-kapoor-2000ish" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="ish-kapoor-2000ish" height="40" width="40" /></a>
+  <a href="https://fb.com/ish kapoor" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733547.png" alt="ish kapoor" height="40" width="40" /></a>
+  <a href="mailto:ishkapoor2000@gmail.com?'Reching out to you'='Hi, I want to enwuire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="2000_i_k" height="40" width="40" /></fa>
+  <a href="https://instagram.com/2000_i_k" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" alt="2000_i_k" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
