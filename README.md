@@ -62,6 +62,12 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#8](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/8) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+2. 🗣 Commented on [#8](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/8) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+3. 🗣 Commented on [#8](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/8) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+4. 🗣 Commented on [#8](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/8) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+5. ❗️ Opened issue [#8](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/8) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+<!--END_SECTION:activity-->
 
 <p align="center">
   <img src="https://github.com/ishkapoor2000/ishkapoor2000/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
