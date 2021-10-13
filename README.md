@@ -61,6 +61,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+![Ish Kapoor](https://spotify-recently-played-readme.vercel.app/api?user=31mcq3czp37ba2zk4mhtryrmhqn4)
+
 # My Recent Activity on GitHub
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/8) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
