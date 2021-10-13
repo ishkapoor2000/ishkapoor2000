@@ -61,7 +61,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kktsuzcjget5ji54nlj5milptm)
+## Spotify Playing 🎧
+![See what Ish is playing](https://spotify-recently-played-readme.vercel.app/api?user=31kktsuzcjget5ji54nlj5milptm&width=700&count=7)
 
 # My Recent Activity on GitHub
 <!--START_SECTION:activity-->
