@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![Ish Kapoor](https://spotify-recently-played-readme.vercel.app/api?user=31mcq3czp37ba2zk4mhtryrmhqn4)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kktsuzcjget5ji54nlj5milptm)
 
 # My Recent Activity on GitHub
 <!--START_SECTION:activity-->
