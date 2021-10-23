@@ -78,6 +78,8 @@ Here are some ideas to get you started:
 5. 🗣 Commented on [#8](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/8) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
 <!--END_SECTION:activity-->
 
+<img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishkapoor2000&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
 <p align="center">
   <img src="https://github.com/ishkapoor2000/ishkapoor2000/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
 </p>
