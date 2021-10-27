@@ -71,11 +71,11 @@ Here are some ideas to get you started:
 
 # My Recent Activity on GitHub
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/pull/11) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
-2. 🎉 Merged PR [#10](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/pull/10) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
-3. 🗣 Commented on [#9](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/9) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
-4. 💪 Opened PR [#124](https://github.com/wbhoomika/python4beginners-Hacktoberfest21/pull/124) in [wbhoomika/python4beginners-Hacktoberfest21](https://github.com/wbhoomika/python4beginners-Hacktoberfest21)
-5. 🗣 Commented on [#8](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/8) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+1. 🎉 Merged PR [#12](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/pull/12) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+2. 🎉 Merged PR [#11](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/pull/11) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+3. 🎉 Merged PR [#10](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/pull/10) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+4. 🗣 Commented on [#9](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/9) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+5. 💪 Opened PR [#124](https://github.com/wbhoomika/python4beginners-Hacktoberfest21/pull/124) in [wbhoomika/python4beginners-Hacktoberfest21](https://github.com/wbhoomika/python4beginners-Hacktoberfest21)
 <!--END_SECTION:activity-->
 
 <img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishkapoor2000&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
