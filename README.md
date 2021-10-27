@@ -71,10 +71,10 @@ Here are some ideas to get you started:
 
 # My Recent Activity on GitHub
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/9) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
-2. 💪 Opened PR [#124](https://github.com/wbhoomika/python4beginners-Hacktoberfest21/pull/124) in [wbhoomika/python4beginners-Hacktoberfest21](https://github.com/wbhoomika/python4beginners-Hacktoberfest21)
-3. 🗣 Commented on [#8](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/8) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
-4. 🗣 Commented on [#8](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/8) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+1. 🎉 Merged PR [#11](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/pull/11) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+2. 🎉 Merged PR [#10](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/pull/10) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+3. 🗣 Commented on [#9](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/9) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+4. 💪 Opened PR [#124](https://github.com/wbhoomika/python4beginners-Hacktoberfest21/pull/124) in [wbhoomika/python4beginners-Hacktoberfest21](https://github.com/wbhoomika/python4beginners-Hacktoberfest21)
 5. 🗣 Commented on [#8](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues/8) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
 <!--END_SECTION:activity-->
 
