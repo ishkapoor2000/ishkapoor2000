@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <a href="https://divya-chitta.ishkapoor.repl.co/" alt="https://divya-chitta.ishkapoor.repl.co/" />DivyaChitta</a>, a VR Meditation Android Application.
 - 💬 You can ask me about Game development, 3D, AR, VR, web development & Deep Learning.
-- ⚡ Maintaining [Hacktober Fest 2021 Repository](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021).
 - 👯 I’m looking to collaborate on AI, web dev, OpenCV and VR projects.
 - 🌱 I’m currently learning ThreeJS, WebXR, JS, DL, ReactJS.
 - 🎮 Play _**Dark Corner**_ & _**Dark Corner: v2 Mobile**_ at my [**itch.io page**](https://ishkapoor.itch.io).
