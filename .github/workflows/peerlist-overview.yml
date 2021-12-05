@@ -4,14 +4,14 @@ on:
     # run every day at 12
     - cron: "0 0 * * *"
   
-#jobs:
-#  peerlist-run:
-#    name: Generate peerlist overview
-#    runs-on: ubuntu-latest
-#    steps:
-#      - uses: actions/checkout@v2
-#      - uses: browser-actions/setup-chrome@latest
-#      - uses: 'anuraghazra/peerlist-profile-action@master'
-#        with:
-#          token: ${{ secrets.GITHUB_TOKEN }}
-#          username: '' # your peerlist username in ''
+jobs:
+  peerlist-run:
+    name: Generate peerlist overview
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: browser-actions/setup-chrome@latest
+      - uses: 'anuraghazra/peerlist-profile-action@master'
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: "ishkapoor"
