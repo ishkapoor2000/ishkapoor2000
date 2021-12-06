@@ -14,4 +14,4 @@ jobs:
       - uses: 'anuraghazra/peerlist-profile-action@master'
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          username: "ishkapoor"
+          username: 'ishkapoor' # your peerlist username
