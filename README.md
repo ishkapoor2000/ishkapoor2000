@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # My Recent Activity on GitHub
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/draftbit/twitter-lite/issues/99) in [draftbit/twitter-lite](https://github.com/draftbit/twitter-lite)
-2. 🗣 Commented on [#124](https://github.com/draftbit/twitter-lite/issues/124) in [draftbit/twitter-lite](https://github.com/draftbit/twitter-lite)
-3. 🗣 Commented on [#28](https://github.com/pawap90/space-commit/issues/28) in [pawap90/space-commit](https://github.com/pawap90/space-commit)
-4. 🎉 Merged PR [#4](https://github.com/ishkapoor2000/FIRE_FIGHTING_AUTOMATED_ROBOT/pull/4) in [ishkapoor2000/FIRE_FIGHTING_AUTOMATED_ROBOT](https://github.com/ishkapoor2000/FIRE_FIGHTING_AUTOMATED_ROBOT)
-5. 🎉 Merged PR [#11](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/pull/11) in [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+1. 🎉 Merged PR [#1](https://github.com/ishkapoor2000/qr-code-component-main/pull/1) in [ishkapoor2000/qr-code-component-main](https://github.com/ishkapoor2000/qr-code-component-main)
+2. 💪 Opened PR [#1](https://github.com/ishkapoor2000/qr-code-component-main/pull/1) in [ishkapoor2000/qr-code-component-main](https://github.com/ishkapoor2000/qr-code-component-main)
+3. 🗣 Commented on [#99](https://github.com/draftbit/twitter-lite/issues/99) in [draftbit/twitter-lite](https://github.com/draftbit/twitter-lite)
+4. 🗣 Commented on [#124](https://github.com/draftbit/twitter-lite/issues/124) in [draftbit/twitter-lite](https://github.com/draftbit/twitter-lite)
+5. 🗣 Commented on [#28](https://github.com/pawap90/space-commit/issues/28) in [pawap90/space-commit](https://github.com/pawap90/space-commit)
 <!--END_SECTION:activity-->
 
 <img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishkapoor2000&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
