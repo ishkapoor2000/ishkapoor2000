@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <a href="https://divya-chitta.ishkapoor.repl.co/" alt="https://divya-chitta.ishkapoor.repl.co/" />DivyaChitta</a>, a VR Meditation Android Application.
 - 💬 You can ask me about Product Management, Game development, 3D, AR, VR, Web development & AI/Deep Learning.
 - 👯 I’m looking to collaborate on building legacy projects.
-- 🌱 I’m currently learning ThreeJS, WebXR, PM, PHP, Node, GCP.
+- 🌱 I’m currently learning ThreeJS, WebXR, PM, PHP, API development, system architecture.
 - 🎮 Play _**Dark Corner**_ & _**Dark Corner: v2 Mobile**_ at my [**itch.io page**](https://ishkapoor.itch.io).
 - 📫 How to reach me: <a href="#connect-with-me" rel="noopener" target="_blank">Connect with me</a>.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishkapoor2000" alt="ishkapoor2000" /></a></p>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/IshKapoor9" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="@ishkapoor9" height="40" width="40" /></a>
   <a href="https://linkedin.com/in/ish-kapoor-2000ish" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="ish-kapoor-2000ish" height="40" width="40" /></a>
   <a href="https://fb.com/ish kapoor" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733547.png" alt="ish kapoor" height="40" width="40" /></a>
-  <a href="mailto:ishkapoor2000@gmail.com?'Reching out to you'='Hi, I want to enwuire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="2000_i_k" height="40" width="40" /></fa>
+  <a href="mailto:ishkapoor2000@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="2000_i_k" height="40" width="40" /></fa>
   <a href="https://instagram.com/2000_i_k" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" alt="2000_i_k" height="40" width="40" /></a>
 </p> -->
 
