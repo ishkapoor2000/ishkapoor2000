@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishkapoor2000&label=Profile%20views&color=0e75b6&style=flat" alt="ishkapoor2000" /> </p>
 
-- 🔭 I’m currently working on <a href="https://divya-chitta.ishkapoor.repl.co/" alt="https://divya-chitta.ishkapoor.repl.co/" />DivyaChitta</a>, a VR Meditation Android Application.
-- 💬 You can ask me about Product Management, Game development, 3D, AR, VR, Web development & AI/Deep Learning.
+- 🔭 I’m currently building College Setu on <a href="https://www.collegesetu.com/" alt="https://www.collegesetu.com/" />College Setu</a>.
+- 💬 You can ask me about Product Management, Game Dev, 3D, AR, VR, Web development & AI/Deep Learning.
 - 👯 I’m looking to collaborate on building legacy projects.
-- 🌱 I’m currently learning ThreeJS, WebXR, PM, PHP, API development, system architecture.
+- 🌱 I’m currently learning ThreeJS, WebXR, PM, PHP, API development, system architecture, microservices.
 - 🎮 Play _**Dark Corner**_ & _**Dark Corner: v2 Mobile**_ at my [**itch.io page**](https://ishkapoor.itch.io).
-- 📫 How to reach me: <a href="#connect-with-me" rel="noopener" target="_blank">Connect with me</a>.
+- 📫 How to reach me: <a href="https://beacons.ai/ishkapoor" rel="noopener" target="_blank">Connect with me</a>.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishkapoor2000" alt="ishkapoor2000" /></a></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -50,20 +50,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishkapoor2000&show_icons=true&locale=en" alt="ishkapoor2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishkapoor2000&" alt="ishkapoor2000" /></p>
-
-## Contribution Skyline - 2020
-<p>
-  <a href="https://skyline.github.com/ishkapoor2000/2020" target="_blank">
-    <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2020.gif" alt="Skyline Github Contributon 2020" />
-  </a>
-</p>
-
-## Contribution Skyline - 2021
-<p>
-  <a href="https://skyline.github.com/ishkapoor2000/2021" target="_blank">
-    <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2021.gif" alt="Skyline Github Contributon 2021" />
-  </a>
-</p>
 
 ## Spotify Playing 🎧
 ![See what Ish is playing](https://spotify-recently-played-readme.vercel.app/api?user=31kktsuzcjget5ji54nlj5milptm&width=700&count=7)
