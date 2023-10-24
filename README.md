@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">I am Ish Kapoor</h3>
-<h3 align="center">A passionate engineer from India 
+<h3 align="center">A passionate PM from India 
   <span>
     <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/154/flag-for-india_1f1ee-1f1f3.png" alt="Flag of INDIA" width="28" />
   </span>
