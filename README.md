@@ -17,18 +17,17 @@ Here are some ideas to get you started:
 <h3 align="center">I am Ish Kapoor</h3>
 <h3 align="center">A passionate PM from India 
   <span>
-    <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/154/flag-for-india_1f1ee-1f1f3.png" alt="Flag of INDIA" width="28" />
+    <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/154/flag-for-india_1f1ee-1f1f3.png" alt="Flag of INDIA" width="28" /> 
   </span>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishkapoor2000&label=Profile%20views&color=0e75b6&style=flat" alt="ishkapoor2000" /> </p>
 
-- 🔭 I’m currently building College Setu on <a href="https://www.collegesetu.com/" alt="https://www.collegesetu.com/" />College Setu</a>.
+- 🔭 Product Guy @ <a href="https://www.redcliffelabs.com/" alt="https://www.redcliffelabs.com/" />Redcliffelabs</a>.
 - 💬 You can ask me about Product Management, Game Dev, 3D, AR, VR, Web development & AI/Deep Learning.
-- 👯 I’m looking to collaborate on building legacy projects.
 - 🌱 I’m currently learning ThreeJS, WebXR, PM, PHP, API development, system architecture, microservices.
 - 🎮 Play _**Dark Corner**_ & _**Dark Corner: v2 Mobile**_ at my [**itch.io page**](https://ishkapoor.itch.io).
-- 📫 How to reach me: <a href="https://beacons.ai/ishkapoor" rel="noopener" target="_blank">Connect with me</a>.
+- 📫 How to reach me: <a href="https://topmate.io/ish" rel="noopener" target="_blank">Connect with me</a>.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishkapoor2000" alt="ishkapoor2000" /></a></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
