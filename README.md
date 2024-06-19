@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 Product Guy @ <a href="https://www.redcliffelabs.com/" alt="https://www.redcliffelabs.com/" />Redcliffelabs</a>.
 - 💬 You can ask me about Product Management, Game Dev, 3D, AR, VR, Web development & AI/Deep Learning.
-- 🌐 Working on Chai Sutta Explorer: <a href="https://github.com/ishkapoor2000/chai-sutta-explorer">Repo</a> - A VS Code Extension to find an handle all of your API calls.
+- 🌐 Working on Chai Sutta Explorer: <a href="https://github.com/ishkapoor2000/chai-sutta-explorer">Repo</a> - A VS Code Extension to find and handle all of your API calls.
 - 🌱 I’m currently learning ThreeJS, WebXR, PM, PHP, API development, system architecture, microservices.
 - 🎮 Play _**Dark Corner**_ & _**Dark Corner: v2 Mobile**_ at my [**itch.io page**](https://ishkapoor.itch.io).
 - 📫 How to reach me: <a href="https://topmate.io/ish" rel="noopener" target="_blank">Connect with me</a>.
